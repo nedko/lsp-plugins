@@ -79,7 +79,13 @@ fetch:
 	echo "Fetching desired source code dependencies"
 	$(MAKE) -f "make/modules.mk" $(@) VERBOSE="$(VERBOSE)" BASEDIR="$(BASEDIR)" CONFIG="$(CONFIG)"
 	echo "Fetch OK"
-	
+
+gitsubmodules:
+	$(CHK_CONFIG)
+	echo "Fetching desired source code dependencies"
+	$(MAKE) -f "make/gitsubmodules.mk" $(@) VERBOSE="$(VERBOSE)" BASEDIR="$(BASEDIR)" CONFIG="$(CONFIG)"
+	echo "Fetch OK"
+
 tree:
 	echo "Fetching all possible source code dependencies"
 	$(MAKE) -f "make/modules.mk" $(@) VERBOSE="$(VERBOSE)" BASEDIR="$(BASEDIR)" TREE="1"
