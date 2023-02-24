@@ -1,0 +1,129 @@
+[submodule "modules/lsp-common-lib"]
+	path = modules/lsp-common-lib
+	url = https://github.com/lsp-plugins/lsp-common-lib.git
+[submodule "modules/lsp-dsp-lib"]
+	path = modules/lsp-dsp-lib
+	url = https://github.com/lsp-plugins/lsp-dsp-lib.git
+[submodule "modules/lsp-dsp-units"]
+	path = modules/lsp-dsp-units
+	url = https://github.com/lsp-plugins/lsp-dsp-units.git
+[submodule "modules/lsp-lltl-lib"]
+	path = modules/lsp-lltl-lib
+	url = https://github.com/lsp-plugins/lsp-lltl-lib.git
+[submodule "modules/lsp-runtime-lib"]
+	path = modules/lsp-runtime-lib
+	url = https://github.com/lsp-plugins/lsp-runtime-lib.git
+[submodule "modules/lsp-plugins-shared"]
+	path = modules/lsp-plugins-shared
+	url = https://github.com/lsp-plugins/lsp-plugins-shared.git
+[submodule "modules/lsp-plugin-fw"]
+	path = modules/lsp-plugin-fw
+	url = https://github.com/lsp-plugins/lsp-plugin-fw.git
+[submodule "modules/lsp-r3d-iface"]
+	path = modules/lsp-r3d-iface
+	url = https://github.com/lsp-plugins/lsp-r3d-iface.git
+[submodule "modules/lsp-ws-lib"]
+	path = modules/lsp-ws-lib
+	url = https://github.com/lsp-plugins/lsp-ws-lib.git
+[submodule "modules/lsp-tk-lib"]
+	path = modules/lsp-tk-lib
+	url = https://github.com/lsp-plugins/lsp-tk-lib.git
+[submodule "modules/lsp-r3d-base-lib"]
+	path = modules/lsp-r3d-base-lib
+	url = https://github.com/lsp-plugins/lsp-r3d-base-lib.git
+[submodule "modules/lsp-test-fw"]
+	path = modules/lsp-test-fw
+	url = https://github.com/lsp-plugins/lsp-test-fw.git
+[submodule "modules/lsp-3rd-party"]
+	path = modules/lsp-3rd-party
+	url = https://github.com/lsp-plugins/lsp-3rd-party.git
+[submodule "modules/lsp-r3d-glx-lib"]
+	path = modules/lsp-r3d-glx-lib
+	url = https://github.com/lsp-plugins/lsp-r3d-glx-lib.git
+[submodule "modules/lsp-plugins-art-delay"]
+	path = modules/lsp-plugins-art-delay
+	url = https://github.com/lsp-plugins/lsp-plugins-art-delay.git
+[submodule "modules/lsp-plugins-comp-delay"]
+	path = modules/lsp-plugins-comp-delay
+	url = https://github.com/lsp-plugins/lsp-plugins-comp-delay.git
+[submodule "modules/lsp-plugins-compressor"]
+	path = modules/lsp-plugins-compressor
+	url = https://github.com/lsp-plugins/lsp-plugins-compressor.git
+[submodule "modules/lsp-plugins-crossover"]
+	path = modules/lsp-plugins-crossover
+	url = https://github.com/lsp-plugins/lsp-plugins-crossover.git
+[submodule "modules/lsp-plugins-dyna-processor"]
+	path = modules/lsp-plugins-dyna-processor
+	url = https://github.com/lsp-plugins/lsp-plugins-dyna-processor.git
+[submodule "modules/lsp-plugins-expander"]
+	path = modules/lsp-plugins-expander
+	url = https://github.com/lsp-plugins/lsp-plugins-expander.git
+[submodule "modules/lsp-plugins-gate"]
+	path = modules/lsp-plugins-gate
+	url = https://github.com/lsp-plugins/lsp-plugins-gate.git
+[submodule "modules/lsp-plugins-graph-equalizer"]
+	path = modules/lsp-plugins-graph-equalizer
+	url = https://github.com/lsp-plugins/lsp-plugins-graph-equalizer.git
+[submodule "modules/lsp-plugins-impulse-responses"]
+	path = modules/lsp-plugins-impulse-responses
+	url = https://github.com/lsp-plugins/lsp-plugins-impulse-responses.git
+[submodule "modules/lsp-plugins-impulse-reverb"]
+	path = modules/lsp-plugins-impulse-reverb
+	url = https://github.com/lsp-plugins/lsp-plugins-impulse-reverb.git
+[submodule "modules/lsp-plugins-latency-meter"]
+	path = modules/lsp-plugins-latency-meter
+	url = https://github.com/lsp-plugins/lsp-plugins-latency-meter.git
+[submodule "modules/lsp-plugins-limiter"]
+	path = modules/lsp-plugins-limiter
+	url = https://github.com/lsp-plugins/lsp-plugins-limiter.git
+[submodule "modules/lsp-plugins-loud-comp"]
+	path = modules/lsp-plugins-loud-comp
+	url = https://github.com/lsp-plugins/lsp-plugins-loud-comp.git
+[submodule "modules/lsp-plugins-mb-compressor"]
+	path = modules/lsp-plugins-mb-compressor
+	url = https://github.com/lsp-plugins/lsp-plugins-mb-compressor.git
+[submodule "modules/lsp-plugins-mb-dyna-processor"]
+	path = modules/lsp-plugins-mb-dyna-processor
+	url = https://github.com/lsp-plugins/lsp-plugins-mb-dyna-processor.git
+[submodule "modules/lsp-plugins-mb-expander"]
+	path = modules/lsp-plugins-mb-expander
+	url = https://github.com/lsp-plugins/lsp-plugins-mb-expander.git
+[submodule "modules/lsp-plugins-mb-gate"]
+	path = modules/lsp-plugins-mb-gate
+	url = https://github.com/lsp-plugins/lsp-plugins-mb-gate.git
+[submodule "modules/lsp-plugins-noise-generator"]
+	path = modules/lsp-plugins-noise-generator
+	url = https://github.com/lsp-plugins/lsp-plugins-noise-generator.git
+[submodule "modules/lsp-plugins-oscillator"]
+	path = modules/lsp-plugins-oscillator
+	url = https://github.com/lsp-plugins/lsp-plugins-oscillator.git
+[submodule "modules/lsp-plugins-oscilloscope"]
+	path = modules/lsp-plugins-oscilloscope
+	url = https://github.com/lsp-plugins/lsp-plugins-oscilloscope.git
+[submodule "modules/lsp-plugins-para-equalizer"]
+	path = modules/lsp-plugins-para-equalizer
+	url = https://github.com/lsp-plugins/lsp-plugins-para-equalizer.git
+[submodule "modules/lsp-plugins-phase-detector"]
+	path = modules/lsp-plugins-phase-detector
+	url = https://github.com/lsp-plugins/lsp-plugins-phase-detector.git
+[submodule "modules/lsp-plugins-profiler"]
+	path = modules/lsp-plugins-profiler
+	url = https://github.com/lsp-plugins/lsp-plugins-profiler.git
+[submodule "modules/lsp-plugins-room-builder"]
+	path = modules/lsp-plugins-room-builder
+	url = https://github.com/lsp-plugins/lsp-plugins-room-builder.git
+[submodule "modules/lsp-plugins-sampler"]
+	path = modules/lsp-plugins-sampler
+	url = https://github.com/lsp-plugins/lsp-plugins-sampler.git
+[submodule "modules/lsp-plugins-slap-delay"]
+	path = modules/lsp-plugins-slap-delay
+	url = https://github.com/lsp-plugins/lsp-plugins-slap-delay.git
+[submodule "modules/lsp-plugins-spectrum-analyzer"]
+	path = modules/lsp-plugins-spectrum-analyzer
+	url = https://github.com/lsp-plugins/lsp-plugins-spectrum-analyzer.git
+[submodule "modules/lsp-plugins-surge-filter"]
+	path = modules/lsp-plugins-surge-filter
+	url = https://github.com/lsp-plugins/lsp-plugins-surge-filter.git
+[submodule "modules/lsp-plugins-trigger"]
+	path = modules/lsp-plugins-trigger
+	url = https://github.com/lsp-plugins/lsp-plugins-trigger.git
